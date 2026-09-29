@@ -170,18 +170,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akhileshkamble1506&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshkamble1506&layout=compact&hide_border=true" />
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
@@ -207,7 +195,5 @@
 ### 💡 Turning Data into Insights, and Insights into Impact.
 
 ⭐ **Explore my repositories to see my latest Data Analytics & Machine Learning projects.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=akhileshkamble1506&style=flat-square)
 
 </div>
