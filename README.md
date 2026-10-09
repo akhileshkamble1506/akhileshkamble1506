@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.E. in Artificial Intelligence & Data Science**
+- 🎓 Pursuing **B.TECH. in Artificial Intelligence & Data Science**
 - 🏫 Student at **PES Modern College of Engineering, Pune**
 - 📊 Interested in **Data Analytics, Data Science & Machine Learning**
 - 🐍 Working with **Python, SQL, Pandas, NumPy & Scikit-learn**
